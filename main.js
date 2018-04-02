@@ -1,7 +1,7 @@
 		
 	//Typewriter Effect Script
 	$('#part-one h1').typeIt({
-		 strings: ["Hi I am Sahil Singh", "I am a Content Developer", "Scroll Down to Know More"],
+		 strings: ["Hi I am Sahil Singh", "I am a Web Developer", "Scroll Down to Know More"],
 		 speed: 120,
 		 autoStart: false
 	});
