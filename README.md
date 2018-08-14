@@ -1,6 +1,18 @@
-<p>It is a portfolio of mine.</p>
-<p>Do check it and will be happy for hearing your feedback.</p>
-<h3>
-<p><a href="https://sahilit.github.io/Sahil-Singh-Portfolio/" target="_blank">Demo Site</a></p>
-<p><a href="http://sahilsingh.ml" target="_blank">Completed Site </a></p>
-</h3>
+# Portfolio
+
+## Description
+It is a simple and clean portfolio.<br>
+Github Link: https://sahilit.github.io/Sahil-Singh-Portfolio/ <br>
+Hosted Link: http://sahilsingh.ml
+
+## Resources
+
+- Font Awesome
+- Bootstrap
+- jQuery
+- Google Fonts
+
+
+## License
+
+The contents of this repository are covered under the [MIT License](LICENSE).
