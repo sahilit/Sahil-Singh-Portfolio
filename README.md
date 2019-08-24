@@ -3,7 +3,7 @@
 ## Description
 It is a simple and clean portfolio.<br>
 Github Link: https://sahilit.github.io/Sahil-Singh-Portfolio/ <br>
-Hosted Link: http://sahilsingh.ml
+Hosted Link: http://sahilsinghportfolio.000webhostapp.com
 
 ## Resources
 
