@@ -25,10 +25,10 @@ $(window).scroll(function() {
     if ($(window).scrollTop() >= triggerHeight) {
         $('.div1').css('width', '95%');
         $('.div2').css('width', '80%');
-        $('.div3').css('width', '65%');
-        $('.div4').css('width', '60%');
-        $('.div5').css('width', '50%');
-        $('.div6').css('width', '75%')
+        $('.div3').css('width', '75%');
+        $('.div4').css('width', '70%');
+        $('.div5').css('width', '60%');
+        $('.div6').css('width', '55%')
     }
 });
 

@@ -1,0 +1,30 @@
+{
+  "name": "MCA Corner",
+  "short_name": "MCA Corner",
+  "icons": [{
+      "src": "icons/MCA128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }, {
+        "src": "icons/MCA144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }, {
+        "src": "icons/MCA152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      }, {
+        "src": "icons/MCA192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }, {
+        "src": "icons/MCA512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+   ],
+  "theme_color": "#34495e",
+  "background_color": "#34495e",
+  "start_url": "/",
+  "display": "standalone"
+}
