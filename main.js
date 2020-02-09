@@ -14,23 +14,23 @@ $('a').click(function() {
 });
 
 // Progress bar Script 
-$(window).scroll(function() {
-    console.log($(window).scrollTop());
-    var topDivHeight1 = $("#part-one").height();
-    var topDivHeight2 = $("#part-two").height();
-    var topDivHeight3 = $("#part-three").height();
-    var viewPortSize = $(window).height();
-    var triggerAt = 310;
-    var triggerHeight = ((topDivHeight1 + topDivHeight2 + topDivHeight3) - viewPortSize) + triggerAt;
-    if ($(window).scrollTop() >= triggerHeight) {
-        $('.div1').css('width', '95%');
-        $('.div2').css('width', '80%');
-        $('.div3').css('width', '75%');
-        $('.div4').css('width', '70%');
-        $('.div5').css('width', '60%');
-        $('.div6').css('width', '55%')
-    }
-});
+// $(window).scroll(function() {
+//     console.log($(window).scrollTop());
+//     var topDivHeight1 = $("#part-one").height();
+//     var topDivHeight2 = $("#part-two").height();
+//     var topDivHeight3 = $("#part-three").height();
+//     var viewPortSize = $(window).height();
+//     var triggerAt = 310;
+//     var triggerHeight = ((topDivHeight1 + topDivHeight2 + topDivHeight3) - viewPortSize) + triggerAt;
+//     if ($(window).scrollTop() >= triggerHeight) {
+//         $('.div1').css('width', '95%');
+//         $('.div2').css('width', '80%');
+//         $('.div3').css('width', '75%');
+//         $('.div4').css('width', '70%');
+//         $('.div5').css('width', '60%');
+//         $('.div6').css('width', '55%')
+//     }
+// });
 
 //Resume Download button pop-up
 $(document).ready(function() {

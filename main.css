@@ -177,62 +177,6 @@ p {
 	color: #fff
 }
 
-#part-four .full-div {
-	width: 90%;
-	height: 20px;
-	background: #f2f2f1;
-	color: #fff;
-	text-align: right;
-	margin-bottom: 40px
-}
-
-#part-four .div1 {
-	width: 0%;
-	height: 20px;
-	background: #2ecc71;
-	padding-right: 7px;
-	transition: all ease 1s
-}
-
-#part-four .div2 {
-	width: 0%;
-	height: 20px;
-	background: #2ecc71;
-	padding-right: 7px;
-	transition: all ease 1s
-}
-
-#part-four .div3 {
-	width: 0%;
-	height: 20px;
-	background: #2ecc71;
-	padding-right: 7px;
-	transition: all ease 1s
-}
-
-#part-four .div4 {
-	width: 0%;
-	height: 20px;
-	background: #2ecc71;
-	padding-right: 7px;
-	transition: all ease 1s
-}
-
-#part-four .div5 {
-	width: 0%;
-	height: 20px;
-	background: #2ecc71;
-	padding-right: 7px;
-	transition: all ease 1s
-}
-
-#part-four .div6 {
-	width: 0%;
-	height: 20px;
-	background: #2ecc71;
-	padding-right: 7px;
-	transition: all ease 1s
-}
 
 #part-five {
 	background: #f2f2f1;
@@ -557,7 +501,7 @@ p {
 @media screen and (min-width:320px) and (max-width:480px) {
 	#part-one h1 {
 		padding-top: 40%;
-		font-size: 40px;
+		font-size: 40px !important;
 		margin: 0 5px
 	}
 	#part-three .row {
